@@ -1,4 +1,4 @@
-#**_Fenil Gala's_ First _CS 193_ Homework**
+# **_Fenil Gala's_ First CS _193_ Homework**
 
 _Favorite Things About CS 193_
 - **Lecture Quizzes**
@@ -7,13 +7,13 @@ _Favorite Things About CS 193_
 - _Students_
 - **~~Brightspace~~**
 
-```
+
 ![Image](https://miro.medium.com/max/1400/1*A2Lk0Soe7RNfiVtFAdaBpg.jpeg) 
 
 ![Image](https://miro.medium.com/max/880/0*cesFJY5JFpI0Rl4v.jpg) 
 
 [Link] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-NgvSrsnD0LTBSGHgyxpmgnMhFYBlQJYsA&usqp=CAU) 
-```
+
 
 ## Welcome to GitHub Pages
 
