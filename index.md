@@ -1,6 +1,6 @@
 # **_Fenil_ Gala's First CS _193_ Homework**
 
-_Favorite Things About CS 193_
+_Favorite Things About CS 193:_
 - **Lecture Quizzes**
 - _Lectures_
 - **Course Leads & TAs**
