@@ -1,4 +1,4 @@
-# **_Fenil Gala's_ First CS _193_ Homework**
+# **_Fenil_ Gala's First CS _193_ Homework**
 
 _Favorite Things About CS 193_
 - **Lecture Quizzes**
