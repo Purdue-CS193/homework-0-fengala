@@ -1,3 +1,20 @@
+#**_Fenil Gala's_ First _CS 193_ Homework**
+
+_Favorite Things About CS 193_
+- **Lecture Quizzes**
+- _Lectures_
+- **Course Leads & TAs**
+- _Students_
+- **~~Brightspace~~**
+
+```
+![Image](https://miro.medium.com/max/1400/1*A2Lk0Soe7RNfiVtFAdaBpg.jpeg) 
+
+![Image](https://miro.medium.com/max/880/0*cesFJY5JFpI0Rl4v.jpg) 
+
+[Link] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-NgvSrsnD0LTBSGHgyxpmgnMhFYBlQJYsA&usqp=CAU) 
+```
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
